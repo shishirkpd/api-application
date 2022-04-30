@@ -1,4 +1,4 @@
-### Panaseer Engineering: Scala Take Home Coding Exercise 🖥️
+###  🖥️
 
 👋 Welcome to our Scala take-home coding project! This is a chance for you to show us how you think through solutions, approach technical designs and adapt to an existing codebase. Remember you really **shouldn't spend more than 4 hours** on this exercise, otherwise you risk over-cooking it.
 
